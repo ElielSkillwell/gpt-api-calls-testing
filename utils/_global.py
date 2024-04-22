@@ -1,0 +1,1 @@
+AZURE_API_VERSION="2023-12-01-preview"
